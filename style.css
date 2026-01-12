@@ -1,0 +1,20 @@
+* {
+    font-family: "roboto";
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background-color: #1f2937;
+    color: white;
+
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.navlinks {
+    display: flex;
+    gap: 40px;
+}
