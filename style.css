@@ -137,3 +137,11 @@
     margin-right: auto; */
     margin: 0px auto 0px 0px;
 }
+
+/* footer */
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 15px 0px 15px 0px;
+}
